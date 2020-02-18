@@ -18,5 +18,7 @@ ________________________________________________________________________________
 
 
 1.It crashed because you did not deleted the lower pillboxes YBN and YDR (look above)
+
 2.To fix the player flickering you need to add the interior into what's called (INTERIORPROXIES.META) this goes for any MLO that is trying to be used in One-Sync server.
+
 3.So before yelling,kicking and screaming like a little girl, think and ask for help.
